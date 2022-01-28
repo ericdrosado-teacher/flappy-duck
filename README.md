@@ -1,24 +1,6 @@
- 
+## Assignment 1
 
-
-> Open this page at [https://ericdrosado-teacher.github.io/flappy-duck/](https://ericdrosado-teacher.github.io/flappy-duck/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/ericdrosado-teacher/flappy-duck** and import
-
-## Edit this project ![Build status badge](https://github.com/ericdrosado-teacher/flappy-duck/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/ericdrosado-teacher/flappy-duck** and click import
+For this assignment please change the background color of the game.
 
 ## Blocks preview
 
